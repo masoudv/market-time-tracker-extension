@@ -1,0 +1,53 @@
+body {
+    width: 200px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  #markets {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  
+  .market {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .market.open {
+    border-color: green;
+    background-color: #eaffea;
+  }
+  
+  .market.closed {
+    border-color: red;
+    background-color: #ffeaea;
+  }
+  
+  .market h3 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .market p {
+    margin: 5px 0;
+    font-size: 1rem;
+    color: #555;
+  }
+  

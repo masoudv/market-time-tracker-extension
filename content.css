@@ -1,0 +1,49 @@
+#allow-overlay,#deny-overlay{
+    margin: 0 10px; 
+    padding: 5px 10px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius:3px; 
+    font-size:12px;
+    color: white; 
+}
+#allow-overlay{
+    background-color: green; 
+}
+#deny-overlay{
+    background-color: red;
+}
+#market-overlay {
+    font-family: Arial, sans-serif;
+  }
+  
+  #market-timers > div {
+    padding: 5px 10px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 5px;
+    text-align: center;
+  }
+  
+  #market-overlay button {
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  
+  #market-overlay button:hover {
+    background-color: #555;
+  }
+  .market-timer {
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1rem;
+    transition: color 0.3s ease, border-color 0.3s ease;
+  }
+  
