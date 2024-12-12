@@ -16,7 +16,7 @@
 ### Chrome
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/market-timer-extension.git
+   git clone https://github.com/masoudv/market-timer-extension.git
    ```
 2. Go to `chrome://extensions`.
 3. Enable **Developer Mode**.
@@ -56,7 +56,7 @@ This project is licensed under the MIT License.
 ### کروم
 1. این مخزن را کلون کنید:  
    ```bash
-   git clone https://github.com/your-username/market-timer-extension.git
+   git clone https://github.com/masoudv/market-timer-extension.git
    ```
 2. به آدرس `chrome://extensions` بروید.
 3. **Developer Mode** را فعال کنید.
